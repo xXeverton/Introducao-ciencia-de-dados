@@ -1,0 +1,42 @@
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos de variáveis de ambiente
+.env
+.env.*
+
+# Bytecode e cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Arquivos de banco de dados temporários
+*.sqlite3
+*.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de build/distribuição
+dist/
+build/
+*.egg-info/
