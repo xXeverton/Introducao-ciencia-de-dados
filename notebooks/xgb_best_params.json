@@ -1,0 +1,1 @@
+{"xgb__colsample_bytree": 0.8, "xgb__learning_rate": 0.1, "xgb__max_depth": 3, "xgb__n_estimators": 200, "xgb__subsample": 1.0}
